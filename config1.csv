@@ -1,0 +1,5 @@
+Execute Script? (Admin Only),JIRA Story Number,Run As UserName,TWGQA1E,TWGQA1E Result,TWGQA1D,TWGQA2D,PROD
+TRUE,GB-2314_1,SystemIntegrationUser,TRUE,,FALSE,FALSE,TRUE
+TRUE,GB-2313,BillingStatementUser,TRUE,,FALSE,FALSE,TRUE
+TRUE,GB-2313_1,BillingStatementUser,TRUE,,FALSE,FALSE,TRUE
+TRUE,GB-2314,SystemIntegrationUser,TRUE,,FALSE,FALSE,TRUE
